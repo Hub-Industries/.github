@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You're on the tiny part of the Internet that belongs to Hub Industries; a personal creation intended to group together a whole bunch of "stuff". All IT related to Hub Industries is hosted on the Zoo network. Basically this is a little self-hosted island in the digital ocean. 
+
 <!--
 
 **Here are some ideas to get you started:**
