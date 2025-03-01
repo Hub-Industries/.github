@@ -2,6 +2,8 @@
 
 You're on the tiny part of the Internet that belongs to Hub Industries; a personal creation intended to group together a whole bunch of "stuff". All IT related to Hub Industries is hosted on the Zoo network. Basically this is a little self-hosted island in the digital ocean. 
 
+## Contributing
+If you want to get involved with any of our public repositories contact [@Frostielocks](https://github.com/Frostielocks)
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,3 +14,4 @@ You're on the tiny part of the Internet that belongs to Hub Industries; a person
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
