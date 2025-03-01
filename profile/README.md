@@ -4,6 +4,8 @@ You're on the tiny part of the Internet that belongs to Hub Industries; a person
 
 ## Contributing
 If you want to get involved with any of our public repositories contact [@Frostielocks](https://github.com/Frostielocks)
+
+![Hub Industries Logo](HubIndLogo-white.png)
 <!--
 
 **Here are some ideas to get you started:**
