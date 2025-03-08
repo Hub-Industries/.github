@@ -10,5 +10,8 @@ Basically we're a little self-hosted island in the digital ocean.
 * 🏛️ _Enterprise Architecture_
 * 🛠️ _DIY_
 
-## Contributing 🌈
-If you want to get involved with any of our public repositories contact [@Frostielocks](https://github.com/Frostielocks)
+## 🌈 Contributing
+If you want to get involved with any of our public repositories contact [@Frostielocks](https://github.com/Frostielocks).
+
+## 🫶 Acknowledgments
+Check out [hub.industries/resources](https://hub.industries/resources) for attributions to all the wonderful artists that created our visual assets.
