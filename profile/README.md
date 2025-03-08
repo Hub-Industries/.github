@@ -1,6 +1,6 @@
 ## Hi there 👋
 You're on the tiny part of the Internet that belongs to Hub Industries; a personal creation intended to group together a whole bunch of "stuff".
-All IT related to Hub Industries is hosted on the Zoo infrastructure.
+All tech related to Hub Industries is part of z00 🐯: a custom self-hosted architecture for deploying and maintaining various tech services.
 Basically we're a little self-hosted island in the digital ocean. 
 
 ## 💕 Our Interests 💕
