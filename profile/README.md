@@ -1,7 +1,5 @@
 ## Hi there 👋
-You're on the tiny part of the Internet that belongs to Hub Industries; a personal creation intended to group together a whole bunch of "stuff".
-All tech related to Hub Industries is part of z00 🐯: a custom self-hosted architecture for deploying and maintaining various tech services.
-Basically we're a little self-hosted island in the digital ocean. 
+You're on the tiny part of the Internet that belongs to Hub Industries; a personal creation that provides enterprise-grade support to its users. Hub Industries leverages z00 🐯; a DIY cyber ecosystem for developing, deploying, and maintaining various information technology services. z00's extensive self-hosted architecture proudly contains a whole lot of FOSS. Basically we're a little self-hosted island in the digital ocean.
 
 ## 💕 Our Interests 💕
 * 🚀 _Self Hosting_
